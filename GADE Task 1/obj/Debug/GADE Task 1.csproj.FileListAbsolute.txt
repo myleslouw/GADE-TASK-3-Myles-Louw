@@ -1,0 +1,10 @@
+D:\School\Visual studio\GADE Task 1\GADE Task 1\bin\Debug\GADE Task 1.exe.config
+D:\School\Visual studio\GADE Task 1\GADE Task 1\bin\Debug\GADE Task 1.exe
+D:\School\Visual studio\GADE Task 1\GADE Task 1\bin\Debug\GADE Task 1.pdb
+D:\School\Visual studio\GADE Task 1\GADE Task 1\obj\Debug\GADE Task 1.csprojAssemblyReference.cache
+D:\School\Visual studio\GADE Task 1\GADE Task 1\obj\Debug\GADE_Task_1.Form1.resources
+D:\School\Visual studio\GADE Task 1\GADE Task 1\obj\Debug\GADE_Task_1.Properties.Resources.resources
+D:\School\Visual studio\GADE Task 1\GADE Task 1\obj\Debug\GADE Task 1.csproj.GenerateResource.cache
+D:\School\Visual studio\GADE Task 1\GADE Task 1\obj\Debug\GADE Task 1.csproj.CoreCompileInputs.cache
+D:\School\Visual studio\GADE Task 1\GADE Task 1\obj\Debug\GADE Task 1.exe
+D:\School\Visual studio\GADE Task 1\GADE Task 1\obj\Debug\GADE Task 1.pdb

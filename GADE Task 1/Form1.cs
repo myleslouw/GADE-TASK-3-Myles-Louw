@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using GADE_Task_1;
 
-
+//commit test
 namespace GADE_Task_1
 {
     public partial class Form1 : Form
@@ -41,6 +41,11 @@ namespace GADE_Task_1
         private void btnPause_Click(object sender, EventArgs e)
         {
             gameTimer.Enabled = false;
+        }
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
         }
     }
 }
